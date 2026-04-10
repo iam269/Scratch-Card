@@ -22,7 +22,7 @@ A fun and engaging web-based scratch card game built with HTML5 Canvas, CSS, and
 - **JavaScript**: Interactive scratching functionality.
 
 ## Live Demo 🌐
-[Try it out here!](https://iam269.github.io/Scratch-Card/)
+[Try it out here!](https://itsiamdev.github.io/Scratch-Card/)
 
 ## License 📄
 This project is open-source. Feel free to use and modify! 🤝
